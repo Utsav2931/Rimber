@@ -4,6 +4,7 @@
   "description": "A dark and easy to read vscode theme",
   "version": "0.0.1",
   "publisher": "Utsav",
+  "icon": "Imgs/Rimber.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Utsav2931/Rimber"
