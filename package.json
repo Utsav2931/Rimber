@@ -1,0 +1,22 @@
+{
+  "name": "Rimber",
+  "displayName": "Rimber",
+  "description": "A dark and easy to read vscode theme",
+  "version": "0.0.1",
+  "publisher": "Utsav",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Rimber",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Rimber-color-theme.json"
+      }
+    ]
+  }
+}
