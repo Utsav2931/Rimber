@@ -4,6 +4,10 @@
   "description": "A dark and easy to read vscode theme",
   "version": "0.0.1",
   "publisher": "Utsav",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Utsav2931/Rimber"
+  },
   "engines": {
     "vscode": "^1.77.0"
   },
